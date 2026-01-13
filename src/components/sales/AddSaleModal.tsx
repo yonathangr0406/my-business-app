@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { X, Save, Loader2, Calendar, DollarSign, User, Building, Tag, FileText, Megaphone } from 'lucide-react';
+import { X, Save, Loader2, Calendar, DollarSign, User, Building, Megaphone } from 'lucide-react';
 import { supabase } from '../../lib/supabase';
 import type { SalesData } from '../../types/sales';
 
